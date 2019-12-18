@@ -99,7 +99,7 @@ Laser Net.MOD									CLASSES:Technomancer=2
 Lifting Frame.MOD									CLASSES:Technomancer=1
 Manipulate tech.MOD									CLASSES:Technomancer=2
 Megavitamin.MOD									CLASSES:Mystic=1
-Miasma.MOD									CLASSES:Mystic=1|Witchwarper=4
+Miasma.MOD									CLASSES:Mystic, Witchwarper=4
 Nanite Form.MOD									CLASSES:Technomancer=3
 Optimize Technology.MOD									CLASSES:Technomancer=2
 Parallel Form.MOD									CLASSES:Witchwarper=2
